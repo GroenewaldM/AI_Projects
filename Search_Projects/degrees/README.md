@@ -35,12 +35,19 @@ The main function in this program first loads data into memory. Then, the functi
 ## Example Output
 
 py -m degrees
+
 Loading data...
+
 Data loaded.
+
 Name: tom cruise
+
 Name: tom hanks
+
 2 degrees of separation.
+
 1: Tom Cruise and Kevin Bacon starred in A Few Good Men
+
 2: Kevin Bacon and Tom Hanks starred in Apollo 13
 
 ## Authors

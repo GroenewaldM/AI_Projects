@@ -36,8 +36,9 @@ The main function of puzzle.py loops over all puzzles, and uses model checking t
 ## Example Output
 
 py -m puzzle
+
 Puzzle 0
-    A is a Knave 
+A is a Knave 
 Puzzle 1
     A is a Knave 
     B is a Knight

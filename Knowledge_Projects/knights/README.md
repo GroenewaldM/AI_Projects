@@ -40,6 +40,7 @@ py -m puzzle
 Puzzle 0
 
 A is a Knave 
+
 Puzzle 1
 
 A is a Knave 
@@ -53,6 +54,7 @@ A is a Knave
 B is a Knight
 
 Puzzle 3
+
 A is a Knight
 
 B is a Knave

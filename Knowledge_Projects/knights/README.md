@@ -38,16 +38,25 @@ The main function of puzzle.py loops over all puzzles, and uses model checking t
 py -m puzzle
 
 Puzzle 0
+
 A is a Knave 
 Puzzle 1
+
 A is a Knave 
+
 B is a Knight
+
 Puzzle 2
+
 A is a Knave
+
 B is a Knight
+
 Puzzle 3
 A is a Knight
+
 B is a Knave
+
 C is a Knight
 
 

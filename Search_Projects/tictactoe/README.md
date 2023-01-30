@@ -18,11 +18,14 @@ This program allows you to play tic-tac-toe against an AI that uses a Minimax al
 There are two main files in this project: runner.py and tictactoe.py. tictactoe.py contains all of the logic for playing the game, and for the AI to make optimal moves. runner.py contains all of the code to run the graphical interface for the game. Once you run runner.py you will be able to tic-tac-toe against the AI!
 
 
-### Example Output
+## Example Output
 
 py -m runner
+
 pygame 2.1.2 (SDL 2.0.18, Python 3.10.5)
+
 Hello from the pygame community. https://www.pygame.org/contribute.html
+
 *pygame window popup*
 
 

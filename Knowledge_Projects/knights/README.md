@@ -33,7 +33,7 @@ logic.py also contains a function model_check. model_check takes a knowledge bas
 The main function of puzzle.py loops over all puzzles, and uses model checking to compute, given the knowledge for that puzzle, whether each character is a knight or a knave, printing out any conclusions that the model checking algorithm is able to make.
 
 
-### Example Output
+## Example Output
 
 py -m puzzle
 Puzzle 0

@@ -18,11 +18,14 @@ This program allows you to play Minesweeper or allows you to prompt the AI to pl
 There are two main files in this project: runner.py and minesweeper.py. minesweeper.py contains all of the logic the game itself and for the AI to play the game. runner.py contains all of the code to run the graphical interface for the game. You can run runner.py to play Minesweeper (or let your AI play for you)!
 
 
-### Example Output
+## Example Output
 
 py -m runner
+
 pygame 2.1.2 (SDL 2.0.18, Python 3.10.5)
+
 Hello from the pygame community. https://www.pygame.org/contribute.html
+
 *pygame window popup*
 
 ## Authors
